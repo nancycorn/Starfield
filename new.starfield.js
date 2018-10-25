@@ -8,6 +8,9 @@ function setup() {
     stars[i] = new Star();
   }
 }
-
+function draw() {
+  //speed = map(mouseX, 0, width, 0, 50);
+  background(0);
+  translate(width / 2, height / 2);
 
 }
