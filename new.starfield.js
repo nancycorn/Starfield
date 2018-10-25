@@ -8,6 +8,6 @@ function setup() {
     stars[i] = new Star();
   }
 }
-
+function draw()
 
 }
